@@ -134,7 +134,7 @@
   <repositories>
     <repository>
       <id>lib-local</id>
-      <url>file:///${project.basedir}/lib</url>
+      <url>file://lib</url>
     </repository>
   </repositories>
 </project>
