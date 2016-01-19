@@ -130,6 +130,11 @@
       <artifactId>deeptagger</artifactId>
       <version>1.0.0</version>
     </dependency>
+    <dependency>
+      <groupId>edu.uw</groupId>
+      <artifactId>taggerflow</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
   <repositories>
     <repository>
